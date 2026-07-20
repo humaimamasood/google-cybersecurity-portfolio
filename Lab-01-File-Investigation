@@ -1,0 +1,38 @@
+# Linux Lab 1 - File Investigation
+
+## Objective
+
+Investigate files using Linux commands.
+
+## Commands Used
+
+- pwd
+- ls
+- mkdir
+- cd
+- touch
+- find
+- grep
+- ls -lh
+- tar
+
+## Skills Learned
+
+- File investigation
+- Searching files
+- Searching text
+- Viewing permissions
+- Creating evidence archives
+commands-Used.md
+# Commands Used
+
+```bash
+mkdir SOC-Lab1
+cd SOC-Lab1
+touch report.txt
+touch malware.log
+find . -name "*.log"
+grep "Malware" malware.log
+ls -lh
+tar -cvf evidence.tar malware.log report.txt
+```
