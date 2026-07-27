@@ -27,11 +27,14 @@ My goal is to build practical cybersecurity skills and prepare for an entry-leve
 ## 📂 Portfolio Projects
 
 ### 🐧 Linux Labs
-- Lab 01 – File Investigation
-- Lab 02 – Search Files and Text
-- Lab 03 – File Permissions
-- Lab 04 – User & System Investigation
-- Lab 05 – Network Investigation
+Linux/
+├── Lab-01-File-Investigation.md
+├── Lab-02-Search-Files.md
+├── Lab-03-File-Permissions.md
+├── Lab-04-User-System-Investigation.md
+├── Lab-05-Network-Investigation.md
+├── Lab-06-File-Management.md
+└── Lab-07-User-System-Information.md
 
 ### 🛡️ Vulnerability Assessment
 - Small Business Vulnerability Assessment
